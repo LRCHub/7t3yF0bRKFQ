@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "彼氏はいません今夜だけ",
+  "base_artist": "コレサワ",
+  "createdAt": "2026-02-14T14:23:34.287272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彼氏はいません今夜だけ",
+      "artist": "Koresawa",
+      "has_synced": true,
+      "path": "select/01_彼氏はいません今夜だけ_Koresawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彼氏はいません今夜だけ",
+      "artist": "コレサワ",
+      "has_synced": true,
+      "path": "select/02_彼氏はいません今夜だけ_コレサワ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彼氏はいません今夜だけ",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_彼氏はいません今夜だけ_コレサワ.txt"
+    }
+  ]
+}
